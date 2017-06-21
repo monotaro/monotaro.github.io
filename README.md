@@ -7,3 +7,6 @@
 * [2016/06/17 MonotaRO TechTalk #2「チームワーク」](http://www.kokuchpro.com/event/monotarotech2/)
 * [2017/04/22 MonotaRO TechTalk #1](http://www.kokuchpro.com/event/monotarotech1/)
 
+## DevLove関西
+
+* [2015/03/20 事業会社の現場を知ろう～モノタロウ編～](https://devlove-kansai.doorkeeper.jp/events/20989)
